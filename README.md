@@ -20,13 +20,13 @@ This project implements a production-ready BPE tokenizer from scratch using only
 git clone https://github.com/patidarmonesh/Byte-Pair-Encoding-Tokenization.git
 cd Byte-Pair-Encoding-Tokenization
 
-python 230663_assignment2_bpe.py --train input_data.txt --input sample_data.txt --vocab_size 5000
+python BPE.py --train input_data.txt --input sample_data.txt --vocab_size 5000
 ```
 
 This will generate three output files:
-- `230663_assignment2_bpe_vocab5000.txt` - Vocabulary file
-- `230663_assignment2_bpe_tokens.txt` - Tokenized output
-- `230663_assignment2_bpe_detokenized.txt` - Reconstructed text
+- `bpe_vocab_5000.txt` - Vocabulary file
+- `bpe_tokens.txt` - Tokenized output
+- `bpe_detokenized.txt` - Reconstructed text
 
 ## Installation
 
@@ -53,13 +53,13 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ### Basic Usage
 
 ```bash
-python 230663_assignment2_bpe.py --train <training_file> --input <input_file> --vocab_size <size>
+python BPE.py --train <training_file> --input <input_file> --vocab_size <size>
 ```
 
 ### With Progress Monitoring
 
 ```bash
-python 230663_assignment2_bpe.py --train input_data.txt --input sample_data.txt --vocab_size 5000 --progress
+python BPE.py --train input_data.txt --input sample_data.txt --vocab_size 5000 --progress
 ```
 
 ### Command-Line Arguments
@@ -209,7 +209,7 @@ This implementation draws inspiration from:
 
 ```
 .
-├── 230663_assignment2_bpe.py    # Main implementation
+├── BPE.py                        # Main implementation
 ├── input_data.txt                # Training corpus
 ├── sample_data.txt               # Sample input for testing
 ├── README.md                     # This file
