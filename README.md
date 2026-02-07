@@ -149,7 +149,7 @@ The implementation has been tested on a 25MB multilingual corpus containing:
 
 Training data: [input_data.txt](https://github.com/patidarmonesh/Byte-Pair-Encoding-Tokenization/blob/main/input_data.txt)
 
-Sample data: [sample_data.txt](https://github.com/patidarmonesh/Byte-Pair-Encoding-Tokenization/blob/main/sample_data.txt)
+Sample data: [sample_data.txt](https://github.com/patidarmonesh/Byte-Pair-Encoding-Tokenization/blob/main/sample-text.txt)
 
 ## Implementation Highlights
 
