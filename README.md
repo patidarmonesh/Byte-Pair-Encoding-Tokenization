@@ -225,10 +225,19 @@ This project is licensed under the MIT License. See LICENSE file for details.
 
 ## Author
 
+**Contact**
+
 **Monesh Patidar**  
-IIT Kanpur  
-GitHub: [@patidarmonesh](https://github.com/patidarmonesh)  
-Email: moeshp23@iitk.ac.in
+IIT Kanpur
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-patidarmonesh-181717?style=flat&logo=github)](https://github.com/patidarmonesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Monesh_Patidar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/monesh-patidar-056763283/)
+[![Email](https://img.shields.io/badge/Email-moeshp23@iitk.ac.in-D14836?style=flat&logo=gmail)](mailto:moeshp23@iitk.ac.in)
+
+</div>
+
 
 ## Acknowledgments
 
